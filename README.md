@@ -1,6 +1,6 @@
 # Minigame 1
 ## Devlog
-Write your Devlog here. Delete instructional text like this line! And don't forget that you have to hit ENTER twice to create a new paragraph.
+A scene is like a stage of a play. On the stage, there are lots of actors which are game objects. And each actor has a different role. Some are responsible for singing, some for dancing. These are components.
 ## Open-Source Assets
 - [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
 - [Low poly platformer kit](https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 )
