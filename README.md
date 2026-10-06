@@ -1,6 +1,15 @@
 # Minigame 1
+
 ## Devlog
+<<<<<<< Updated upstream
 A scene is like a stage of a play. On the stage, there are lots of actors which are game objects. And each actor has a different role. Some are responsible for singing, some for dancing. These are components.
+=======
+
+A scene is like a stage of a play. On the stage, there are lots of actors which are game objects. And each actor has a different role. Some are responsible for singing, some for dancing. These are components.
+
+>>>>>>> Stashed changes
 ## Open-Source Assets
-- [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
-- [Low poly platformer kit](https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 )
+
+* [Starter first-person assets](https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525)
+* [Low poly platformer kit](https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018)
+
